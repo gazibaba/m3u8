@@ -1,0 +1,890 @@
+#EXTM3U
+#EXTINF:0, 3 Plus Alb
+http://51.159.3.14:8081/shikoshqip/TRING3PLUS/playlist.m3u8
+#EXTINF:0, Abc News Alb
+http://163.172.25.87:8081/shikoshqip/ABCNEWS/playlist.m3u8
+#EXTINF:0, Alsat-M Alb
+http://163.172.25.87:8081/shikoshqip/ALSATM/playlist.m3u8
+#EXTINF:0, Apollon Tv Alb
+http://185.80.224.14:1935/live/smil:web.smil/playlist.m3u8
+#EXTINF:0,ARTA NEWS HD
+http://84.22.33.254/unicast.artanews/index.m3u8
+#EXTINF:0, Dasma Tv Alb
+http://84.22.33.254/unicast.dasmatv/index.m3u8
+#EXTINF:0, Elrodi Tv Alb
+http://95.107.132.104/out/u/155_1.m3u8
+#EXTINF:0, Euronews Albania Alb
+http://vip.tvgiganten.com:2095/live/4TSce5jvdn/cGvPgvSHKe/49008.m3u8
+#EXTINF:0, Fax News Alb
+http://84.22.33.238/unicast.faxnews/index.m3u8
+#EXTINF:0, Folk Plus Alb
+http://51.159.2.121:8081/live/FOLK+/playlist.m3u8
+#EXTINF:0, Gurmania Channel Alb
+http://84.22.33.238/unicast.gurmania/index.m3u8
+#EXTINF:0, In Tv Alb
+http://vip.tvgiganten.com:2095/live/4TSce5jvdn/cGvPgvSHKe/49006.m3u8
+#EXTINF:0, Jolly Hd Alb
+http://51.15.3.71:8081/shikoshqip/JOLLYHD/playlist.m3u8
+#EXTINF:0, Kanali 7 Alb
+http://84.22.33.254/unicast.kanal7/index.m3u8
+#EXTINF:0, Klan Kosova Alb
+http://163.172.25.87:8081/shikoshqip/KLANKOSOVA/playlist.m3u8
+#EXTINF:0, Klan Macedonia Alb
+http://vip.tvgiganten.com:2095/live/4TSce5jvdn/cGvPgvSHKe/40679.m3u8
+#EXTINF:0, Klan Plus Alb
+http://51.15.3.71:8081/shikoshqip/KLANPLUSHD/playlist.m3u8
+#EXTINF:0, Klan Tv Alb
+http://163.172.25.87:8081/shikoshqip/KLANTV/playlist.m3u8
+#EXTINF:0, Ks Premierë 2 Gisht Mjaltë 4K Alb
+http://iplay-tv.com:9999/live/WgAoph4b/JghBkEoC/743832.m3u8
+#EXTINF:0, Ktv Alb
+http://163.172.25.87:8081/shikoshqip/KTV/playlist.m3u8
+#EXTINF:0, Kujtesa Sport 1 Alb
+http://51.15.0.231:8081/shikoshqip/KUJTESASPORT1/playlist.m3u8
+#EXTINF:0, Kujtesa Sport 2 Alb
+http://51.15.0.231:8081/shikoshqip/KUJTESASPORT2/playlist.m3u8
+#EXTINF:0, Kujtesa Sport 3 Alb
+http://51.15.0.231:8081/shikoshqip/KUJTESASPORT3/playlist.m3u8
+#EXTINF:0, Kujtesa Sport 4 Alb
+http://51.15.0.231:8081/shikoshqip/KUJTESASPORT4/playlist.m3u8
+#EXTINF:0, Kujtesa Sport 5 Alb
+http://client.wire-iptv.com:1557/live/Naser/Germani/1697.m3u8
+#EXTINF:0, Living Alb
+http://51.15.3.71:8081/shikoshqip/TRINGLIVING/playlist.m3u8
+#EXTINF:0, News 24 Alb
+http://51.15.3.71:8081/shikoshqip/NEWS24/playlist.m3u8
+#EXTINF:0, Ora News Alb
+http://95.107.132.104/out/u/523_1.m3u8
+#EXTINF:0, Portokalli Alb
+http://iptv.kosiptv.com:1557/live/Naser/Germani/5698.m3u8
+#EXTINF:0, Premium Channel Alb
+http://premium-channel.tv/stream.m3u8
+#EXTINF:0, Prime Alb
+http://84.22.33.238/unicast.prime/index.m3u8
+#EXTINF:0, Report Tv Alb
+http://sh-stream.duckdns.org/hls/stream.m3u8
+#EXTINF:0, Rtk 1 Alb
+http://84.22.33.254/unicast.rtk1hd/index.m3u8
+#EXTINF:0, Rtk Sat Alb
+http://95.107.132.104/out/u/327_1.m3u8
+#EXTINF:0, Rtsh 1 Alb
+http://51.15.3.71:8081/shikoshqip/RTSH1/playlist.m3u8
+#EXTINF:0, Rtsh 2 Alb
+http://51.15.3.71:8081/shikoshqip/RTSH2/playlist.m3u8
+#EXTINF:0, Rtsh 24 Alb
+http://79.106.48.2/live/rtsh_24_ott/playlist.m3u8
+#EXTINF:0, Rtsh 3 Alb
+http://79.106.48.2/live/rtsh_3ott/playlist.m3u8
+#EXTINF:0, Rtsh Kukësi Alb
+http://79.106.48.2/live/rtsh_kukesi/playlist.m3u8
+#EXTINF:0, Rtsh Sat Alb
+http://cloudcdn.tk:80/live/NhQ33tpKxu/CxDDe0GYrR/22782.m3u8
+#EXTINF:0, Rtsh Shkollë Alb
+http://51.15.3.71:8081/shikoshqip/RTSHPLUS/playlist.m3u8
+#EXTINF:0, Rtsh Sport Alb
+http://79.106.48.2/live/rtsh_sport_ott/playlist.m3u8
+#EXTINF:0, Rtv 21 Alb
+http://163.172.25.87:8081/shikoshqip/RTV21/playlist.m3u8
+#EXTINF:0, Rtv 21 Newsbiz Alb
+http://84.22.33.254/unicast.rtv21business/index.m3u8
+#EXTINF:0, Rtv Ora Alb
+http://51.15.3.71:8081/shikoshqip/ORANEWS/playlist.m3u8
+#EXTINF:0, Scan Tv Alb
+http://iptv.kosiptv.com:1557/live/Naser/Germani/1425.m3u8
+#EXTINF:0, Shpk Nazi Alb
+http://iptv.kosiptv.com:1557/live/Naser/Germani/13786.m3u8
+#EXTINF:0, Smile Alb
+http://51.15.3.71:8081/shikoshqip/TRINGSMILE/playlist.m3u8
+#EXTINF:0, Sot7 Pogradec Alb
+http://93.188.164.35:1935/live/sot7/playlist.m3u8
+#EXTINF:0, Supersport 2 Alb
+http://51.15.0.231:8081/shikoshqip/SUPERSPORT2/playlist.m3u8
+#EXTINF:0, Syri Net Alb
+https://tv.syri.net/syrilive/webtv/playlist.m3u8
+#EXTINF:0, Syri Vision Alb
+http://84.22.33.254/unicast.syrivision/index.m3u8
+#EXTINF:0, T7 Alb
+http://163.172.25.87:8081/shikoshqip/T7HD/playlist.m3u8
+#EXTINF:0, Top Channel Alb
+http://163.172.25.87:8081/shikoshqip/TOPCHANNEL/playlist.m3u8
+#EXTINF:0, Top News Alb
+http://51.15.3.71:8081/shikoshqip/TOPNEWS/playlist.m3u8
+#EXTINF:0, Tribuna Channel Alb
+http://95.107.132.104/out/u/208_2.m3u8
+#EXTINF:0, Tring Comedy Alb
+http://51.15.3.71:8081/shikoshqip/TRINGCOMEDY/playlist.m3u8
+#EXTINF:0, Tring Info Channel Alb
+http://95.107.132.106/out/u/419_1.m3u8
+#EXTINF:0, Tring International Alb
+http://95.107.132.104/out/u/236_1.m3u8
+#EXTINF:0, Tring Shqip Alb
+http://51.15.3.71:8081/shikoshqip/TRINGSHQIP/playlist.m3u8
+#EXTINF:0, Tring Sport 1 Alb
+http://51.15.0.231:8081/shikoshqip/TRINGSPORT1/playlist.m3u8
+#EXTINF:0, Tring Sport 2 Alb
+http://51.15.0.231:8081/shikoshqip/TRINGSPORT2/playlist.m3u8
+#EXTINF:0, Tring Sport 3 Alb
+http://vip.tvgiganten.com:2095/live/4TSce5jvdn/cGvPgvSHKe/15467.m3u8
+#EXTINF:0, Tring Sport 4 Alb
+http://95.107.132.106/out/u/713_1.m3u8
+#EXTINF:0, Tring Sport News Alb
+http://84.22.33.254/unicast.tringsportnews/index.m3u8
+#EXTINF:0, Tring Super Alb
+http://51.15.3.71:8081/shikoshqip/TRINGSUPER/playlist.m3u8
+#EXTINF:0, Tring Tring Alb
+http://51.159.3.14:8081/shikoshqip/TRINGTRING/playlist.m3u8
+#EXTINF:0, Tring World Alb
+http://51.15.3.71:8081/shikoshqip/TRINGWORLD/playlist.m3u8
+#EXTINF:0, Tv Dukagjini Alb
+http://51.15.3.71:8081/shikoshqip/TVDUKAGJINI/playlist.m3u8
+#EXTINF:0, Tv Kopliku Alb
+http://95.107.132.104/out/u/151_1.m3u8
+#EXTINF:0, Tv Mitrovica Alb
+http://84.22.33.254/unicast.tvmitrovica/index.m3u8
+#EXTINF:0, Tv Opinion Alb
+http://84.22.33.254/unicast.tvopinion/index.m3u8
+#EXTINF:0, Tv Prizreni Alb
+http://84.22.33.238/unicast.tvprizreni/index.m3u8
+#EXTINF:0, Zjarr Tv Alb
+http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
+#EXTINF:0,Peace TV
+http://213.163.115.221:8020/play/a020
+#EXTINF:0,Living
+http://213.163.115.221:8020/play/a0fo
+#EXTINF:0,Dasma TV
+http://213.163.115.221:8020/play/a015
+#EXTINF:0,RTV21 HD
+http://213.163.115.221:8020/play/a0fd
+#EXTINF:0,Alsat M
+http://213.163.115.221:8020/play/a0ex
+#EXTINF:0,K Sport 3 HD
+http://213.163.115.221:8020/play/a005
+#EXTINF:0,Euronews
+http://213.163.115.221:8020/play/a06p
+#EXTINF:0,Baby TV
+http://213.163.115.221:8020/play/a00f
+#EXTINF:0,Sky Aksion
+http://213.163.115.221:8020/play/a003
+#EXTINF:0,Rrokum TV
+http://213.163.115.221:8020/play/a022
+#EXTINF:0,TVSH
+http://213.163.115.221:8020/play/a0ew
+#EXTINF:0,RTK 4
+http://213.163.115.221:8020/play/a01l
+#EXTINF:0,Al Jazeera Balkans
+http://213.163.115.221:8020/play/a05x
+#EXTINF:0,21 Plus
+http://213.163.115.221:8020/play/a016
+#EXTINF:0,Tring Life
+http://213.163.115.221:8020/play/a0fp
+#EXTINF:0,K Sport 1 HD
+http://213.163.115.221:8020/play/a0e8
+#EXTINF:0,K Sport 2
+http://213.163.115.221:8020/play/a0fq
+#EXTINF:0,FOX
+http://213.163.115.221:8020/play/a066
+#EXTINF:0,Ora News
+http://213.163.115.221:8020/play/a0fb
+#EXTINF:0,TV Dukagjini
+http://213.163.115.221:8020/play/a0fm
+#EXTINF:0,21 Popullore HD
+http://213.163.115.221:8020/play/a0ff
+#EXTINF:0,K Sport 4 HD
+http://213.163.115.221:8020/play/a0e9
+#EXTINF:0,Kanali 7
+http://213.163.115.221:8020/play/a00m
+#EXTINF:0,FOX Life
+http://213.163.115.221:8020/play/a067
+#EXTINF:0,T7
+http://213.163.115.221:8020/play/a0ev
+#EXTINF:0,K Sport 2 HD
+http://213.163.115.221:8020/play/a004
+#EXTINF:0,K Sport 5 HD
+http://213.163.115.221:8020/play/a0ey
+#EXTINF:0,TV5 Monde
+http://213.163.115.221:8020/play/a06o
+#EXTINF:0,KTV
+http://213.163.115.221:8020/play/a0eu
+#EXTINF:0,RTK 3
+http://213.163.115.221:8020/play/a0fc
+#EXTINF:0,21 Mix HD
+http://213.163.115.221:8020/play/a0fg
+#EXTINF:0,21 Junior
+http://213.163.115.221:8020/play/a01c
+#EXTINF:0,K Sport 1
+http://213.163.115.221:8020/play/a01m
+#EXTINF:0,National Geographic
+http://213.163.115.221:8020/play/a00j
+#EXTINF:0,Tring MAX
+http://213.163.115.221:8020/play/a018
+#EXTINF:0,Arta News
+http://213.163.115.221:8020/play/a01h
+#EXTINF:0,Eurosport
+http://213.163.115.221:8020/play/a06u
+#EXTINF:0,Klan TV
+http://213.163.115.221:8020/play/a0fn
+#EXTINF:0,FashionTV
+http://213.163.115.221:8020/play/a00o
+#EXTINF:0,Sky Shkence
+http://213.163.115.221:8020/play/a009
+#EXTINF:0,TV 21
+http://213.163.115.221:8020/play/a0et
+#EXTINF:0,Sky Max
+http://213.163.115.221:8020/play/a002
+#EXTINF:0,21 Junior HD
+http://213.163.115.221:8020/play/a0fh
+#EXTINF:0,CNN
+http://213.163.115.221:8020/play/a06n
+#EXTINF:0,Show TV
+http://213.163.115.221:8020/play/a00d
+#EXTINF:0,Sofia
+http://213.163.115.221:8020/play/a0fr
+#EXTINF:0,RTV21 Maqedoni
+http://213.163.115.221:8020/play/a0f9
+#EXTINF:0,Vizion Plus
+http://213.163.115.221:8020/play/a010
+#EXTINF:0,Boomerang
+http://213.163.115.221:8020/play/a0fs
+#EXTINF:0,FOX Crime
+http://213.163.115.221:8020/play/a026
+#EXTINF:0,TV 7
+http://213.163.115.221:8020/play/a0fa
+#EXTINF:0,Eurosport 2
+http://213.163.115.221:8020/play/a01z
+#EXTINF:0,Tring Comedy
+http://213.163.115.221:8020/play/a01a
+#EXTINF:0,RTK 1
+http://213.163.115.221:8020/play/a0es
+#EXTINF:0,21 Popullore
+http://213.163.115.221:8020/play/a04w
+#EXTINF:0,Infochannel
+http://213.163.115.221:8020/play/a0fw
+#EXTINF:0,TV Tema
+http://213.163.115.221:8020/play/a0fu
+#EXTINF:0,21 Plus HD
+http://213.163.115.221:8020/play/a0fe
+#EXTM3U
+#EXTINF:0,Rtk1 HD
+http://ott.artmott.com/Rtk1/tracks-v1a1/mono.m3u8
+#EXTINF:0,Rtk 3 HD
+http://ott.artmott.com/Rtk3/tracks-v1a1/mono.m3u8
+#EXTINF:0,RTK 4 HD
+http://ott.artmott.com/Rtk4/tracks-v1a1/mono.m3u8
+#EXTINF:0,Rtv 21 HD
+http://ott.artmott.com/Rtv21/tracks-v1a1/mono.m3u8
+#EXTINF:0,Ktv HD 
+http://84.22.33.210/KtvHd/tracks-v1a1/mono.m3u8
+#EXTINF:0,Klan Kosova HD 
+http://ott.artmott.com/KlanKosova/tracks-v1a1/mono.m3u8
+#EXTINF:0,Dukagjini HD
+http://ott.artmott.com/Dukagjini/tracks-v1a1/mono.m3u8
+#EXTINF:0,Klan HD 
+http://84.22.33.218/tvKlan/tracks-v1a1/mono.m3u8
+#EXTINF:0,Klan Plus 
+http://84.22.33.218/TVKlanPlus/tracks-a2/mono.m3u8
+#EXTINF:0,Vizion Pus HD
+http://ott.artmott.com/VizionPus/tracks-v1a1/mono.m3u8
+#EXTINF:0,Alsat M HD
+http://ott.artmott.com/AlsatM/tracks-v1a1/mono.m3u8
+#EXTINF:0,First Channel
+http://84.22.33.254/unicast.firstchannel/tracks-v1a1/mono.m3u8
+#EXTINF:0,Rtsh 1 HD
+http://79.106.48.2/live/rtsh_1ott/playlist.m3u8
+#EXTINF:0,Tvsh HD
+http://84.22.33.254/unicast_tvsh/mono.m3u8
+#EXTINF:0,Tv Llapi
+http://84.22.33.254/unicast.tvllapi/tracks-v1a1/mono.m3u8
+#EXTINF:0,Rrokum HD
+http://ott.artmott.com/Rrokum/tracks-v1a1/mono.m3u8
+#EXTINF:0,Shenja TV 
+http://84.22.33.254/unicast.shenjatv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Era TV 
+http://ott.artmott.com/EraTV/index.m3u8
+#EXTINF:0,Club Tv
+http://84.22.33.254/unicast.clubtv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tv Tema
+http://84.22.33.254/unicast.tematv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tema Tv
+http://edge01eu.ekranet.com/tematv_720p/index.m3u8
+#EXTINF:0,21 Mix HD
+http://84.22.33.254/unicast.21mix/video.m3u8
+#EXTINF:0,21 M HD
+http://ott.artmott.com/Rtv21M/tracks-v1a1/mono.m3u8
+#EXTINF:0,21 Business HD
+http://84.22.33.254/unicast.rtv21business/video.m3u8
+#EXTINF:0,Alsat M HD
+http://84.22.33.254/unicast_alsatmm/index.m3u8
+#EXTINF:0,Rtsh 1 HD
+http://79.106.48.2/live/rtsh_1ott/playlist.m3u8
+#EXTINF:0,Rtsh 2
+http://79.106.48.2/live/rtsh_2ott/playlist.m3u8
+#EXTINF:0,Rtsh 3 
+http://79.106.48.2/live/rtsh_3ott/playlist.m3u8
+#EXTINF:0,Rtsh Film 
+http://79.106.48.2/live/rtsh_film_ott/playlist.m3u8
+#EXTINF:0,Rtsh Shqip 
+http://79.106.48.2/live/rtsh_shqip_ott/playlist.m3u8
+#EXTINF:0,Rtsh Muzikë 
+http://79.106.48.2/live/rtsh_muzike_ott/playlist.m3u8
+#EXTINF:0,Rtsh Fëmijë
+http://79.106.48.2/live/rtsh_femije_ott/playlist.m3u8
+#EXTINF:0,RTSH Sport HD
+http://79.106.48.2:80/live/rtsh_sport_ott_p4/playlist.m3u8
+#EXTINF:0,Rtsh Plus
+http://79.106.48.2/live/rtsh_plus_ott/playlist.m3u8
+#EXTINF:0,Tv Boin
+http://tva.fastbroad.com:80/i/tvboin_1@380599/index_2000_av-p.m3u8
+#EXTINF:0,Drita TV
+http://163.172.87.151:8000/play/a002/index.m3u8
+#EXTINF:0,Zjarr Tv HD
+http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
+#EXTINF:0,Dielli Tv HD
+http://51.15.180.159:8081/play/hls/dielli/index.m3u8
+#EXTINF:0,Art Kino 1 HD
+http://ott.artmott.com/ArtKino1/tracks-v1a1/mono.m3u8
+#EXTINF:0,Art Kino 2 HD
+http://ott.artmott.com/ArtKino2/tracks-v1a1/mono.m3u8
+#EXTINF:0,Art Kino 3 HD
+http://ott.artmott.com:90/ArtKino3/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tring Action HD
+http://ott.artmott.com/TringAction/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tring Super HD
+http://ott.artmott.com:90/TringSuper/tracks-v1a1/mono.m3u8
+#EXTINF:0,TringLife 
+http://ott.artmott.com/TringLife/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tring Comedy 
+http://ott.artmott.com/TringComedy/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tring Fantasy 
+http://ott.artmott.com/TringFantasy/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tring Shqip 
+http://ott.artmott.com/TringShqip/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sky Shqip 
+http://ott.artmott.com/SKYShqip/tracks-v1a1/mono.m3u8
+#EXTINF:0,7 HD 
+http://ott.artmott.com/7HD/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sky Star HD
+http://ott.artmott.com/SkyStar/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sky Action 
+http://ott.artmott.com/SKYACTION/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sky Komedi 
+http://ott.artmott.com/SKYCOMEDY/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sky Max
+http://ott.artmott.com/SKYMAX/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sky Drame 
+http://flusrv2.artmotion.net/unicast.skydrame/index.m3u8
+#EXTINF:0,Film Box Extra HD
+http://ott.artmott.com/FILMBOXEXTRA/tracks-v1a1/mono.m3u8
+#EXTINF:0,Film Box Plus
+http://ott.artmott.com/FILMBOXPLUS/tracks-v1a1/mono.m3u8
+#EXTINF:0,Film Box Arthouse
+http://ott.artmott.com/FILMBOXARTHOUSE/tracks-v1a1/mono.m3u8
+#EXTINF:0,Prime HD
+http://ott.artmott.com/Prime/tracks-v1a1/mono.m3u8
+#EXTINF:0,Episode HD
+http://ott.artmott.com/Episode/tracks-v1a1/mono.m3u8
+#EXTINF:0,Jolly HD 
+http://ott.artmott.com/JollyHD/tracks-v1a1/mono.m3u8
+#EXTINF:0,3 Plus
+http://84.22.33.254/unicast.3plus/tracks-v1a1/mono.m3u8
+#EXTINF:0,Smile 
+http://ott.artmott.com/Smile/tracks-v1a1/mono.m3u8
+#EXTINF:0,Euro Channel HD
+http://84.22.33.218/EuroChannel/tracks-v1a1/mono.m3u8
+#EXTINF:0,Art Sport 1 HD
+http://ott.artmott.com/ArtSport1/tracks-v1a1/mono.m3u8
+#EXTINF:0,Art Sport 2 HD
+http://ott.artmott.com/ArtSport2/tracks-v1a1/mono.m3u8
+#EXTINF:0,Art Sport 3 HD
+http://ott.artmott.com/ArtSport3/tracks-v1a1/mono.m3u8
+#EXTINF:0,Rtsh Sport HD
+http://79.106.48.2:80/live/rtsh_sport_ott_p4/playlist.m3u8
+#EXTINF:0,Tring Sport News
+http://ott.artmott.com/TringSportNews/tracks-v1a1/mono.m3u8
+#EXTINF:0,Arena Sport 1 HD
+http://ott.artmott.com:90/ArenaSport1MW/tracks-v1a1/mono.m3u8
+#EXTINF:0,Arena Sport 2 HD
+http://84.22.33.218/ArenaSport2OTT/tracks-v1a1/mono.m3u8
+#EXTINF:0,Arena Sport 3 HD
+http://84.22.33.218/ArenaSport3OTT/tracks-v1a1/mono.m3u8
+#EXTINF:0,Arena Sport 4 HD
+http://84.22.33.218/ArenaSport4OTT/tracks-v1a1/mono.m3u8
+#EXTINF:0,Arena Sport 5 HD
+http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
+#EXTINF:0,NBA TV
+http://84.22.33.210/nbatv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Viasat Sport HD 
+http://95.26.95.244:34040/udp/233.33.221.31:5050
+#EXTINF:0,Fight Box 
+http://84.22.33.210/FIGHTBOX/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tv Llapi
+http://84.22.33.254/unicast.tvllapi/tracks-v1a1/mono.m3u8
+#EXTINF:0,Dasma Tv HD
+http://84.22.33.254/unicast.dasmatv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Opoja HD
+http://84.22.33.254/unicast.opoja/tracks-v1a1/mono.m3u8
+#EXTINF:0,Syri Blue
+http://live.syri.tv:6969/live/syriblue/hd/23.ts
+#EXTINF:0,On Tv
+http://84.22.33.254/unicast.ontv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Turbo Chennal 
+http://84.22.33.254/unicast.turbo/video.m3u8%20
+#EXTINF:0,21 Plus HD
+http://84.22.33.254/unicast.21plushd/video.m3u8
+#EXTINF:0,21 Popullore HD 
+http://84.22.33.254/unicast.21popullorehd/video.m3u8
+#EXTINF:0,Rtv Fontana HD
+http://84.22.33.254/unicast.kutiatvhd/video.m3u8
+#EXTINF:0,Mtv Kosova 
+http://84.22.33.254/unicast.mtvkosova/tracks-v1a1/mono.m3u8
+#EXTINF:0,Beat 
+http://ott.artmott.com/Beat/tracks-v1a1/mono.m3u8
+#EXTINF:0,Power HD
+https://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist.sltur.m3u8
+#EXTINF:0,Power Turk HD
+https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist.sltur.m3u8
+#EXTINF:0,Kral HD
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:0,Kral Pop HD
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:0,The Voice
+http://84.22.33.254/unicast.tvllapi/tracks-v1a1/mono.m3u8
+#EXTINF:0,Mtv Europe 
+http://84.22.33.254/unicast.mtveurope/tracks-v1a1/mono.m3u8
+#EXTINF:0,Music 1
+http://84.22.33.254/unicast.musiq1/tracks-v1a1/mono.m3u8
+#EXTINF:0,The Voice
+http://84.22.33.254/unicast.thevoice/tracks-v1a1/mono.m3u8
+#EXTINF:0,Ballkanika
+http://84.22.33.254/unicast.ballkanika/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tv Liria 
+http://84.22.33.254/unicast.tvliria/tracks-v1a1/mono.m3u8
+#EXTINF:0,Zico Tv
+http://ott.artmott.com/zico/tracks-v1a1/mono.m3u8
+#EXTINF:0,Rtv Zik
+http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8
+#EXTINF:0,Positive Gold HD
+http://84.22.33.254/unicast.positivegold/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tune Box
+http://84.22.33.254/unicast.tunebox/video.m3u8
+#EXTINF:0,Sofia HD
+http://ott.artmott.com/sofia/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tring Tring 
+http://ott.artmott.com/TringTring/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tring Kids 
+http://ott.artmott.com/TringKids/tracks-v1a1/mono.m3u8
+#EXTINF:0,Prince Kids 
+http://ott.artmott.com/princekids/video.m3u8
+#EXTINF:0,Pikaboo 
+http://ott.artmott.com/pikaboo/tracks-v1a1/mono.m3u8
+#EXTINF:0,Vavoom 
+http://ott.artmott.com/vavoom/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tip Tv 
+http://ott.artmott.com/TipTV/tracks-v1a1/mono.m3u8
+#EXTINF:0,Rtv 21 Junior
+http://ott.artmott.com/21Junior/tracks-v1a1/mono.m3u8
+#EXTINF:0,Cartoon Network
+http://ott.artmott.com/Cartoonnet/tracks-v1a1/mono.m3u8
+#EXTINF:0,Disney Channel 
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8%20
+#EXTINF:0,Nickelodeon 
+http://ott.artmott.com/Nickelodeon/tracks-v1a1/mono.m3u8%20
+#EXTINF:0,Jim Jam 
+http://84.22.33.210/jimjam/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tring World 
+http://ott.artmott.com/TringWorld/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tring History 
+http://ott.artmott.com/TringHistory/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tring Planet 
+http://ott.artmott.com/TringPlanet/tracks-v1a1/mono.m3u8
+#EXTINF:0,Art Doku 1 HD
+http://ott.artmott.com/ArtDoku1/tracks-v1a1/mono.m3u8
+#EXTINF:0,Art Doku 2 HD
+http://ott.artmott.com/ArtDoku2/tracks-v1a1/mono.m3u8
+#EXTINF:0,Fast &Fun Box HD
+http://ott.artmott.com/FAST&FUNBOX/tracks-v1a1/mono.m3u8
+#EXTINF:0,Docu Box 
+http://ott.artmott.com/DOCUBOX/tracks-v1a1/mono.m3u8
+#EXTINF:0,Ora HD
+https://oranews.tv/oranews/live/playlist.m3u8
+#EXTINF:0,Arta News HD
+http://ott.artmott.com/ArtaNews/tracks-v1a1/mono.m3u8
+#EXTINF:0,News 24 HD 
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:0,Abc News HD
+http://flusrv2.artmotion.net/abcnewsott/index.m3u8
+#EXTINF:0,Abc News
+http://176.31.74.164:8081/abcnewslive/abcnews/playlist.m3u8
+#EXTINF:0,Top News
+http://178.196.237.240:3000/play/xxTOPNEWSxx
+#EXTINF:0,Report Tv HD 
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+#EXTINF:0,Fax News
+http://flusrv2.artmotion.net/unicast.faxnews/index.m3u8
+#EXTINF:0,Show Tv HD
+http://ott.artmott.com/ShowTv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Star Tv HD 
+http://ott.artmott.com/StarTvHd/tracks-v1a1/mono.m3u8
+#EXTINF:0,Kanal D HD
+http://ott.artmott.com/KanalD/tracks-v1a1/mono.m3u8
+#EXTINF:0,Atv HD 
+http://ott.artmott.com/AtvHd/tracks-v1a1/mono.m3u8
+#EXTINF:0,Fox HD 
+http://84.22.33.218/foxturkey/tracks-v1a1/mono.m3u8%20
+#EXTINF:0,Tv 8
+http://84.22.33.238/unicast.tv8/mono.m3u8
+#EXTINF:0,Trt 1 HD
+http://84.22.33.210/trt1/tracks-v1a1/mono.m3u8
+#EXTINF:0,Ntv HD
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:0,Yaban HD
+https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist.m3u8
+#EXTINF:0,Trt world 
+http://84.22.33.218/TRTworld/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sat 1 
+http://ott.artmott.com/Sat1/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sat 1 Gold 
+http://ott.artmott.com/Sat1Gold/tracks-v1a1/mono.m3u8
+#EXTINF:0,Vox 
+http://ott.artmott.com/Vox/tracks-v1a1/mono.m3u8
+#EXTINF:0,Rtl
+http://ott.artmott.com/RTL/tracks-v1a1/mono.m3u8
+#EXTINF:0,Rtl 2 
+http://ott.artmott.com/Rtl2/tracks-v1a1/mono.m3u8
+#EXTINF:0,Prosiben 
+http://ott.artmott.com/Prosiben/tracks-v1a1/mono.m3u8
+#EXTINF:0,Pro7 Maxx 
+http://ott.artmott.com/pro7Maxx/tracks-v1a1/mono.m3u8
+#EXTINF:0,Super RTL 
+http://ott.artmott.com/SuperRTL/tracks-v1a1/mono.m3u8
+#EXTINF:0,Arte
+http://ott.artmott.com/Arte/tracks-v1a1/mono.m3u8
+#EXTINF:0,RTS 1 
+http://ott.artmott.com/RTS/tracks-v1a1/mono.m3u8
+#EXTINF:0,PRVA 
+http://ott.artmott.com/Prva/tracks-v1a1/mono.m3u8
+#EXTINF:0,PINK 
+http://ott.artmott.com/Pink/tracks-v1a1/mono.m3u8
+#EXTINF:0,PINK 2 
+http://ott.artmott.com/pink2/tracks-v1a1/mono.m3u8
+#EXTINF:0,B 92 
+http://84.22.33.254/unicast.b92/tracks-v1a1/mono.m3u8
+#EXTINF:0,rtcg 
+http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.2.stream.m3u8
+#EXTINF:0,hayatbosnia 
+http://84.22.33.254/unicast.hayatbosnia/video.m3u8
+#EXTINF:0,HRT 1 
+http://ott.artmott.com/HRT1/tracks-v1a1/mono.m3u8
+#EXTINF:0,HRT3 
+http://ott.artmott.com/HRT3/tracks-v1a1/mono.m3u8
+#EXTINF:0,-----Shqip-----
+http://s4.letva.lol:80/live?channelId=1&uid=1417&deviceMac=00:1a:79:3e:74:8c
+#EXTINF:0,Rtk1 HD
+http://ott.artmott.com/Rtk1/tracks-v1a1/mono.m3u8
+#EXTINF:0,Rtk 3 HD
+http://ott.artmott.com/Rtk3/tracks-v1a1/mono.m3u8
+#EXTINF:0,RTK 4 HD
+http://ott.artmott.com/Rtk4/tracks-v1a1/mono.m3u8
+#EXTINF:0,Rtv 21 HD
+http://ott.artmott.com/Rtv21/tracks-v1a1/mono.m3u8
+#EXTINF:0,Ktv HD 
+http://84.22.33.210/KtvHd/tracks-v1a1/mono.m3u8
+#EXTINF:0,Klan Kosova HD 
+http://ott.artmott.com/KlanKosova/tracks-v1a1/mono.m3u8
+#EXTINF:0,Dukagjini HD
+http://ott.artmott.com/Dukagjini/tracks-v1a1/mono.m3u8
+#EXTINF:0,Klan HD 
+http://84.22.33.218/tvKlan/tracks-v1a1/mono.m3u8
+#EXTINF:0,Klan Plus 
+http://84.22.33.218/TVKlanPlus/tracks-a2/mono.m3u8
+#EXTINF:0,Vizion Pus HD
+http://ott.artmott.com/VizionPus/tracks-v1a1/mono.m3u8
+#EXTINF:0,Alsat M HD
+http://ott.artmott.com/AlsatM/tracks-v1a1/mono.m3u8
+#EXTINF:0,First Channel
+http://84.22.33.254/unicast.firstchannel/tracks-v1a1/mono.m3u8
+#EXTINF:0,Rtsh 1 HD
+http://79.106.48.2/live/rtsh_1ott/playlist.m3u8
+#EXTINF:0,Tvsh HD
+http://84.22.33.254/unicast_tvsh/mono.m3u8
+#EXTINF:0,Tv Llapi
+http://84.22.33.254/unicast.tvllapi/tracks-v1a1/mono.m3u8
+#EXTINF:0,Rrokum HD
+http://ott.artmott.com/Rrokum/tracks-v1a1/mono.m3u8
+#EXTINF:0,Shenja TV 
+http://84.22.33.254/unicast.shenjatv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Era TV 
+http://ott.artmott.com/EraTV/index.m3u8
+#EXTINF:0,Club Tv
+http://84.22.33.254/unicast.clubtv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tema Tv
+http://84.22.33.254/unicast.tematv/tracks-v1a1/mono.m3u8
+#EXTINF:0,21 Mix HD
+http://84.22.33.254/unicast.21mix/video.m3u8
+#EXTINF:0,21 M HD
+http://ott.artmott.com/Rtv21M/tracks-v1a1/mono.m3u8
+#EXTINF:0,21 Business HD
+http://84.22.33.254/unicast.rtv21business/video.m3u8
+#EXTINF:0,Alsat M HD
+http://84.22.33.254/unicast_alsatmm/index.m3u8
+#EXTINF:0,Rtsh 1 HD
+http://79.106.48.2/live/rtsh_1ott/playlist.m3u8
+#EXTINF:0,Rtsh 2
+http://79.106.48.2/live/rtsh_2ott/playlist.m3u8
+#EXTINF:0,Rtsh 3 
+http://79.106.48.2/live/rtsh_3ott/playlist.m3u8
+#EXTINF:0,Rtsh Film 
+http://79.106.48.2/live/rtsh_film_ott/playlist.m3u8
+#EXTINF:0,Rtsh Shqip 
+http://79.106.48.2/live/rtsh_shqip_ott/playlist.m3u8
+#EXTINF:0,Rtsh Muzikë 
+http://79.106.48.2/live/rtsh_muzike_ott/playlist.m3u8
+#EXTINF:0,Rtsh Fëmijë
+http://79.106.48.2/live/rtsh_femije_ott/playlist.m3u8
+#EXTINF:0,RTSH Sport HD
+http://79.106.48.2:80/live/rtsh_sport_ott_p4/playlist.m3u8
+#EXTINF:0,Rtsh Plus
+http://79.106.48.2/live/rtsh_plus_ott/playlist.m3u8
+#EXTINF:0,Tv Boin
+http://tva.fastbroad.com:80/i/tvboin_1@380599/index_2000_av-p.m3u8
+#EXTINF:0,Drita TV
+http://163.172.87.151:8000/play/a002/index.m3u8
+#EXTINF:0,Zjarr Tv HD
+http:%5C%5C217.73.132.66:1935%5Clive%5CZjarr.stream%5Cplaylist.m3u8
+#EXTINF:0,Dielli Tv HD
+http://51.15.180.159:8081/play/hls/dielli/index.m3u8
+#EXTINF:0,-----Filma-----
+http://s4.letva.lol:80/live?channelId=1&uid=1417&deviceMac=00:1a:79:3e:74:8c
+#EXTINF:0,Art Kino 1 HD
+http://ott.artmott.com/ArtKino1/tracks-v1a1/mono.m3u8
+#EXTINF:0,Art Kino 2 HD
+http://ott.artmott.com/ArtKino2/tracks-v1a1/mono.m3u8
+#EXTINF:0,Art Kino 3 HD
+http://ott.artmott.com:90/ArtKino3/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tring Action HD
+http://ott.artmott.com/TringAction/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tring Super HD
+http://ott.artmott.com:90/TringSuper/tracks-v1a1/mono.m3u8
+#EXTINF:0,TringLife 
+http://ott.artmott.com/TringLife/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tring Comedy 
+http://ott.artmott.com/TringComedy/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tring Fantasy 
+http://ott.artmott.com/TringFantasy/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tring Shqip 
+http://ott.artmott.com/TringShqip/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sky Shqip 
+http://ott.artmott.com/SKYShqip/tracks-v1a1/mono.m3u8
+#EXTINF:0,7 HD 
+http://ott.artmott.com/7HD/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sky Star HD
+http://ott.artmott.com/SkyStar/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sky Action 
+http://ott.artmott.com/SKYACTION/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sky Komedi 
+http://ott.artmott.com/SKYCOMEDY/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sky Max
+http://ott.artmott.com/SKYMAX/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sky Drame 
+http://flusrv2.artmotion.net/unicast.skydrame/index.m3u8
+#EXTINF:0,Film Box Extra HD
+http://ott.artmott.com/FILMBOXEXTRA/tracks-v1a1/mono.m3u8
+#EXTINF:0,Film Box Plus
+http://ott.artmott.com/FILMBOXPLUS/tracks-v1a1/mono.m3u8
+#EXTINF:0,Film Box Arthouse
+http://ott.artmott.com/FILMBOXARTHOUSE/tracks-v1a1/mono.m3u8
+#EXTINF:0,-----Seriale-----
+http://s4.letva.lol:80/live?channelId=1&uid=1417&deviceMac=00:1a:79:3e:74:8c
+#EXTINF:0,Prime HD
+http://ott.artmott.com/Prime/tracks-v1a1/mono.m3u8
+#EXTINF:0,Episode HD
+http://ott.artmott.com/Episode/tracks-v1a1/mono.m3u8
+#EXTINF:0,Jolly HD 
+http://ott.artmott.com/JollyHD/tracks-v1a1/mono.m3u8
+#EXTINF:0,3 Plus
+http://84.22.33.254/unicast.3plus/tracks-v1a1/mono.m3u8
+#EXTINF:0,Smile 
+http://ott.artmott.com/Smile/tracks-v1a1/mono.m3u8
+#EXTINF:0,Euro Channel HD
+http://84.22.33.218/EuroChannel/tracks-v1a1/mono.m3u8
+#EXTINF:0,-----Sport-----
+http://s4.letva.lol:80/live?channelId=1&uid=1417&deviceMac=00:1a:79:3e:74:8c
+#EXTINF:0,Art Sport 1 HD
+http://ott.artmott.com/ArtSport1/tracks-v1a1/mono.m3u8
+#EXTINF:0,Art Sport 2 HD
+http://ott.artmott.com/ArtSport2/tracks-v1a1/mono.m3u8
+#EXTINF:0,Art Sport 3 HD
+http://ott.artmott.com/ArtSport3/tracks-v1a1/mono.m3u8
+#EXTINF:0,Rtsh Sport HD
+http://79.106.48.2:80/live/rtsh_sport_ott_p4/playlist.m3u8
+#EXTINF:0,Tring Sport News
+http://ott.artmott.com/TringSportNews/tracks-v1a1/mono.m3u8
+#EXTINF:0,Arena Sport 1 HD
+http://ott.artmott.com:90/ArenaSport1MW/tracks-v1a1/mono.m3u8
+#EXTINF:0,Arena Sport 2 HD
+http://84.22.33.218/ArenaSport2OTT/tracks-v1a1/mono.m3u8
+#EXTINF:0,Arena Sport 3 HD
+http://84.22.33.218/ArenaSport3OTT/tracks-v1a1/mono.m3u8
+#EXTINF:0,Arena Sport 4 HD
+http://84.22.33.218/ArenaSport4OTT/tracks-v1a1/mono.m3u8
+#EXTINF:0,Arena Sport 5 HD
+http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
+#EXTINF:0,Nba Tv HD
+http://84.22.33.210/nbatv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Viasat Sport HD 
+http://95.26.95.244:34040/udp/233.33.221.31:5050
+#EXTINF:0,Fight Box 
+http://84.22.33.210/FIGHTBOX/tracks-v1a1/mono.m3u8
+#EXTINF:0,-----Muzik-----
+http://s4.letva.lol:80/live?channelId=1&uid=1417&deviceMac=00:1a:79:3e:74:8c
+#EXTINF:0,Tv Llapi
+http://84.22.33.254/unicast.tvllapi/tracks-v1a1/mono.m3u8
+#EXTINF:0,Dasma Tv HD
+http://84.22.33.254/unicast.dasmatv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Opoja HD
+http://84.22.33.254/unicast.opoja/tracks-v1a1/mono.m3u8
+#EXTINF:0,Syri Blue
+http://live.syri.tv:6969/live/syriblue/hd/23.ts
+#EXTINF:0,On Tv
+http://84.22.33.254/unicast.ontv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Turbo Chennal 
+http://84.22.33.254/unicast.turbo/video.m3u8%20
+#EXTINF:0,21 Plus HD
+http://84.22.33.254/unicast.21plushd/video.m3u8
+#EXTINF:0,21 Popullore HD 
+http://84.22.33.254/unicast.21popullorehd/video.m3u8
+#EXTINF:0,Rtv Fontana HD
+http://84.22.33.254/unicast.kutiatvhd/video.m3u8
+#EXTINF:0,Mtv Kosova 
+http://84.22.33.254/unicast.mtvkosova/tracks-v1a1/mono.m3u8
+#EXTINF:0,Beat 
+http://ott.artmott.com/Beat/tracks-v1a1/mono.m3u8
+#EXTINF:0,Power HD
+https://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist.sltur.m3u8
+#EXTINF:0,Power Turk HD
+https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist.sltur.m3u8
+#EXTINF:0,Kral HD
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:0,Kral Pop HD
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:0,The Voice
+http://84.22.33.254/unicast.tvllapi/tracks-v1a1/mono.m3u8
+#EXTINF:0,Mtv Europe 
+http://84.22.33.254/unicast.mtveurope/tracks-v1a1/mono.m3u8
+#EXTINF:0,Music 1
+http://84.22.33.254/unicast.musiq1/tracks-v1a1/mono.m3u8
+#EXTINF:0,The Voice
+http://84.22.33.254/unicast.thevoice/tracks-v1a1/mono.m3u8
+#EXTINF:0,Ballkanika
+http://84.22.33.254/unicast.ballkanika/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tv Liria 
+http://84.22.33.254/unicast.tvliria/tracks-v1a1/mono.m3u8
+#EXTINF:0,Zico Tv
+http://ott.artmott.com/zico/tracks-v1a1/mono.m3u8
+#EXTINF:0,Rtv Zik
+http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8
+#EXTINF:0,Positive Gold HD
+http://84.22.33.254/unicast.positivegold/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tune Box
+http://84.22.33.254/unicast.tunebox/video.m3u8
+#EXTINF:0,-----Femijë-----
+http://s4.letva.lol:80/live?channelId=1&uid=1417&deviceMac=00:1a:79:3e:74:8c
+#EXTINF:0,Sofia HD
+http://ott.artmott.com/sofia/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tring Tring 
+http://ott.artmott.com/TringTring/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tring Kids 
+http://ott.artmott.com/TringKids/tracks-v1a1/mono.m3u8
+#EXTINF:0,Prince Kids 
+http://ott.artmott.com/princekids/video.m3u8
+#EXTINF:0,Pikaboo 
+http://ott.artmott.com/pikaboo/tracks-v1a1/mono.m3u8
+#EXTINF:0,Vavoom 
+http://ott.artmott.com/vavoom/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tip Tv 
+http://ott.artmott.com/TipTV/tracks-v1a1/mono.m3u8
+#EXTINF:0,Rtv 21 Junior
+http://ott.artmott.com/21Junior/tracks-v1a1/mono.m3u8
+#EXTINF:0,Cartoon Network
+http://ott.artmott.com/Cartoonnet/tracks-v1a1/mono.m3u8
+#EXTINF:0,Disney Channel 
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8%20
+#EXTINF:0,Nickelodeon 
+http://ott.artmott.com/Nickelodeon/tracks-v1a1/mono.m3u8%20
+#EXTINF:0,Jim Jam 
+http://84.22.33.210/jimjam/tracks-v1a1/mono.m3u8
+#EXTINF:0,-----Dokumentar-----
+http://s4.letva.lol:80/live?channelId=1&uid=1417&deviceMac=00:1a:79:3e:74:8c
+#EXTINF:0,Tring World 
+http://ott.artmott.com/TringWorld/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tring History 
+http://ott.artmott.com/TringHistory/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tring Planet 
+http://ott.artmott.com/TringPlanet/tracks-v1a1/mono.m3u8
+#EXTINF:0,Art Doku 1 HD
+http://ott.artmott.com/ArtDoku1/tracks-v1a1/mono.m3u8
+#EXTINF:0,Art Doku 2 HD
+http://ott.artmott.com/ArtDoku2/tracks-v1a1/mono.m3u8
+#EXTINF:0,Fast &Fun Box HD
+http://ott.artmott.com/FAST&FUNBOX/tracks-v1a1/mono.m3u8
+#EXTINF:0,Docu Box 
+http://ott.artmott.com/DOCUBOX/tracks-v1a1/mono.m3u8
+#EXTINF:0,-----Lajme-----
+http://s4.letva.lol:80/live?channelId=1&uid=1417&deviceMac=00:1a:79:3e:74:8c
+#EXTINF:0,Ora HD
+https://oranews.tv/oranews/live/playlist.m3u8
+#EXTINF:0,Arta News HD
+http://ott.artmott.com/ArtaNews/tracks-v1a1/mono.m3u8
+#EXTINF:0,News 24 HD 
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:0,Abc News HD
+http://flusrv2.artmotion.net/abcnewsott/index.m3u8
+#EXTINF:0,Abc News
+http://176.31.74.164:8081/abcnewslive/abcnews/playlist.m3u8
+#EXTINF:0,Top News
+http://178.196.237.240:3000/play/xxTOPNEWSxx
+#EXTINF:0,Report Tv HD 
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+#EXTINF:0,Fax News
+http://flusrv2.artmotion.net/unicast.faxnews/index.m3u8
+#EXTINF:0,-----Turk-----
+http://s4.letva.lol:80/live?channelId=1&uid=1417&deviceMac=00:1a:79:3e:74:8c
+#EXTINF:0,Show Tv HD
+http://ott.artmott.com/ShowTv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Star Tv HD 
+http://ott.artmott.com/StarTvHd/tracks-v1a1/mono.m3u8
+#EXTINF:0,Kanal D HD
+http://ott.artmott.com/KanalD/tracks-v1a1/mono.m3u8
+#EXTINF:0,Atv HD 
+http://ott.artmott.com/AtvHd/tracks-v1a1/mono.m3u8
+#EXTINF:0,Fox HD 
+http://84.22.33.218/foxturkey/tracks-v1a1/mono.m3u8%20
+#EXTINF:0,Tv 8
+http://84.22.33.238/unicast.tv8/mono.m3u8
+#EXTINF:0,Trt 1 HD
+http://84.22.33.210/trt1/tracks-v1a1/mono.m3u8
+#EXTINF:0,Ntv HD
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:0,Yaban HD
+https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist.m3u8
+#EXTINF:0,Trt world 
+http://84.22.33.218/TRTworld/tracks-v1a1/mono.m3u8
+#EXTINF:0,-----Gjerman-----
+http://s4.letva.lol:80/live?channelId=1&uid=1417&deviceMac=00:1a:79:3e:74:8c
+#EXTINF:0,Sat 1 
+http://ott.artmott.com/Sat1/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sat 1 Gold 
+http://ott.artmott.com/Sat1Gold/tracks-v1a1/mono.m3u8
+#EXTINF:0,Vox 
+http://ott.artmott.com/Vox/tracks-v1a1/mono.m3u8
+#EXTINF:0,Rtl
+http://ott.artmott.com/RTL/tracks-v1a1/mono.m3u8
+#EXTINF:0,Rtl 2 
+http://ott.artmott.com/Rtl2/tracks-v1a1/mono.m3u8
+#EXTINF:0,Prosiben 
+http://ott.artmott.com/Prosiben/tracks-v1a1/mono.m3u8
+#EXTINF:0,Pro7 Maxx 
+http://ott.artmott.com/pro7Maxx/tracks-v1a1/mono.m3u8
+#EXTINF:0,Super RTL 
+http://ott.artmott.com/SuperRTL/tracks-v1a1/mono.m3u8
+#EXTINF:0,Arte
+http://ott.artmott.com/Arte/tracks-v1a1/mono.m3u8
